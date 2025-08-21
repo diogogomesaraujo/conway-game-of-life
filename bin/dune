@@ -1,0 +1,4 @@
+(executable
+ (public_name game_of_life)
+ (name main)
+ (libraries game_of_life raylib))

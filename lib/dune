@@ -1,0 +1,3 @@
+(library
+ (name game_of_life)
+ (libraries raylib))
